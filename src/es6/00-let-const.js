@@ -1,6 +1,6 @@
 var lastName = 'David';
 
-lastName = 'John'; // Reassigning the variable
+lastName = 'Jhon'; // Reassigning the variable
 console.log(lastName); // John
 
 let fruit = 'Apple';
